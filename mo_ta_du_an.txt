@@ -4,19 +4,19 @@ Mô tả dự án:
 	Bắt đầu: ngày 12/8/2019
 	Kết thúc: ngày 30/12/2019
 - Quản lý nhân sự cho dự án
-	gồm:	 - Người thu thập thông tin khách hàng cho hệ thống
-	         	 - Người quản lý tài chính cho dự án
+	Gồm:	 - Người thu thập thông tin khách hàng cho hệ thống
+	         - Người quản lý tài chính cho dự án
 	 	 - Người thiết kế hệ thống cho phần mềm
 		 - Người thực hiện test dự án và báo kết quả cho người thiết kế dự án
 - Thiết kế hệ thống: hệ thống gồm
-	- chức năng quản lý hàng hóa
-	-chức năng quản lý nhân viên
-	-chức năng quản lý xuất nhập kho
-	- chức năng quản lý doanh thu
+	- Chức năng quản lý hàng hóa
+	- Chức năng quản lý nhân viên
+	- Chức năng quản lý xuất nhập kho
+	- Chức năng quản lý doanh thu
 - Quản lý tài chính:
-	Dự đoán kinh phí cho dự án
+	- Dự đoán kinh phí cho dự án
 - Quản lý các đối tượng khách hàng:
-	Lựa chọn khách hàng tiềm năng, phân loại khách hàng,...
+	- Lựa chọn khách hàng tiềm năng, phân loại khách hàng,...
 - Dự đoán kết quả của dự án: 
 	- Dự án kết thúc có đúng tiến độ hay không?
 	- Dự án có hoàn thành đúng yêu cầu của khách hàng hay không?
