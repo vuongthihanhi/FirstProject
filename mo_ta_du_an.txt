@@ -19,4 +19,4 @@ Mô tả dự án:
 	- Lựa chọn khách hàng tiềm năng, phân loại khách hàng,...
 - Dự đoán kết quả của dự án: 
 	- Dự án kết thúc có đúng tiến độ hay không?
-	- Dự án có hoàn thành đúng yêu cầu của khách hàng hay không ??
+	- Dự án có hoàn thành đúng yêu cầu của khách hàng hay không ?????
