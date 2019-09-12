@@ -20,5 +20,5 @@ Mô tả dự án:
 - Dự đoán kết quả của dự án: 
 	- Dự án kết thúc có đúng tiến độ hay không?
 	- Dự án có hoàn thành đúng yêu cầu của khách hàng hay không?
-- Editted 12/9/2019 10:45 AM - 12:43 PM
+- Editted 12/9/2019 10:45 AM - 12:45 PM
 
