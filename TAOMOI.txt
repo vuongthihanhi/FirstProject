@@ -1,0 +1,11 @@
+2.THONG TIN HE THONG
+A.Manager
+	-Quan ly nhap hang hoa
+	-Quan ly thong tin san pham
+	-Quan ly gia nhap ,gia ban hang
+	-Quan ly ho so nhan vien
+	-Quan ly doanh thu
+	-Quan ly kho
+ 
+
+
